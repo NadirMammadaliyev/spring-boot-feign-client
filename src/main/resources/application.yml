@@ -1,0 +1,10 @@
+server:
+  port: 8081
+url:
+  rest-api: http://localhost:8080/
+
+credentials:
+  rest-api:
+    username: 'nadeer'
+    password: 'password'
+
